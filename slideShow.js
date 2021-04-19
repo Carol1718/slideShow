@@ -1,11 +1,11 @@
 'use strict';
 const images = [
-    { 'id': '1', 'url':'./imagens/coruja.jpg' },
-    { 'id': '2', 'url':'./imagens/gaviao.jpg' },
-    { 'id': '3', 'url':'./imagens/pavao.jpg' },
-    { 'id': '4', 'url':'./imagens/arara.jpg' },
-    { 'id': '5', 'url':'./imagens/tucano.jpg' },
-    { 'id': '6', 'url':'./imagens/bird.jpg' },
+    { 'id': '1', 'url':'./imagens/fox.jpg' },
+    { 'id': '2', 'url':'./imagens/tigre.jpg' },
+    { 'id': '3', 'url':'./imagens/corujaa.jpg' },
+    { 'id': '4', 'url':'./imagens/leaoo.jpg' },
+    { 'id': '5', 'url':'./imagens/lobo.jpg' },
+    { 'id': '6', 'url':'./imagens/araraa.jpg' },
 ]
 const containerItems = document.querySelector('#container-items');
 const loadImages = ( images, container ) => {
